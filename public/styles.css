@@ -140,7 +140,7 @@ span {
 .gridCont {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-areas: "col1 col3" "col2 col4";
+  grid-template-areas: "col1 col2" "col3 col4";
   gap: 50px;
   margin-top: 150px;
 }
